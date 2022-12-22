@@ -13,6 +13,3 @@ LIVE PREVIEW by Microsoft
 <br>
 ![Screenshot](live-server-preview.png)
 <br>
-QUOKKA by Wallaby.js
-<br>
-![Screenshot](Quokka.png)
