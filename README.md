@@ -1,14 +1,18 @@
 # extensions-vscode
 My useful extensions list for VSCode
 <br>
-AUTO CLOSE TAG
+AUTO CLOSE TAG by Jun Han
 <br>
 ![Screenshot](autoclosetag.png)
 <br>
-AUTO RENAME TAG
+AUTO RENAME TAG by Jun Han
 <br>
 ![Screenshot](auto-rename-tag.png)
 <br>
-LIVE PREVIEW
+LIVE PREVIEW by Microsoft
 <br>
 ![Screenshot](live-server-preview.png)
+<br>
+QUOKKA by Wallaby.js
+<br>
+![Screenshot](Quokka.png)
