@@ -14,4 +14,5 @@ LIVE PREVIEW by Microsoft
 ![Screenshot](live-server-preview.png)
 <br>
 INDENT RAINBOW by Oderwat
+<br>
 ![Screenshot](indent-rainbow.PNG)
