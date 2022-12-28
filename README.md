@@ -13,4 +13,4 @@ LIVE PREVIEW by Microsoft
 <br>
 ![Screenshot](live-server-preview.png)
 <br>
-![Screenshot](indent-rainbow.png)
+![Screenshot](indent-rainbow.PNG)
