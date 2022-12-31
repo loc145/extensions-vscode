@@ -9,7 +9,11 @@ AUTO RENAME TAG by Jun Han
 <br>
 ![Screenshot](auto-rename-tag.png)
 <br>
-LIVE PREVIEW by Microsoft
+LIVE SERVER by Ritwick Dey (Recommend)
+<br>
+![Screenshot](live-server.png)
+<br>
+LIVE PREVIEW by Microsoft (live immediately but sometimes not working so far)
 <br>
 ![Screenshot](live-server-preview.png)
 <br>
