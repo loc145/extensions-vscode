@@ -20,3 +20,11 @@ LIVE PREVIEW by Microsoft (live immediately but sometimes not working so far)
 INDENT RAINBOW by Oderwat
 <br>
 ![Screenshot](indent-rainbow.PNG)
+<br>
+VSCODE-ICON by VScode icons team
+<br>
+![Screenshot](vscodeiconsteam.PNG)
+<br>
+CODESNAP by adpyke
+<br>
+![Screenshot](codesnap.PNG)
