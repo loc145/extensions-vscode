@@ -28,3 +28,7 @@ VSCODE-ICON by VScode icons team
 CODESNAP by adpyke
 <br>
 ![Screenshot](codesnap.PNG)
+<br>
+SNAZZY
+<br>
+![Screenshot](snazzy.PNG)
